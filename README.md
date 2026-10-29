@@ -154,6 +154,4 @@
 - The available records are assumed to be suitable for exploratory analysis after preprocessing.
 - The insights describe patterns in this dataset and may not represent every food delivery business.
 
-# ✅ Conclusion
 
-This project demonstrates an end-to-end Python data analytics workflow for a food delivery dataset. Using Pandas, NumPy, Matplotlib, and Seaborn, the data was cleaned and explored to identify patterns in order amounts, food categories, city-wise performance, and customer ratings. The resulting insights can support further investigation and data-informed business decisions.
