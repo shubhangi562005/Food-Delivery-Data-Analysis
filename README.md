@@ -154,8 +154,77 @@
 - The available records are assumed to be suitable for exploratory analysis after preprocessing.
 - The insights describe patterns in this dataset and may not represent every food delivery business.
 
-**Visualization:**
+## Visualization:
 
-Q1. What Is the Distribution of Order Amounts?
+**Q1. What Is the Distribution of Order Amounts?**
+
+![Chart 1](<Screenshot 2026-10-29 132512.png>)
+**Analysis:**
+- Most order amounts fall within the lower-to-middle price ranges.
+  
+**Conclusion:**
+- The distribution helps the business understand typical order values and identify high-value orders.
+
+**Q2. Which Food Categories Generate the Highest Revenue?**
+
+![Chart 1](<Screenshot 2026-10-29 132539.png>)
+
+**Analysis:**
+- Pizza generates the highest total order amount in this practice dataset.
+  
+**Conclusion:**
+- The business can evaluate high-performing categories when planning promotions and menu strategies.
+
+**Q3. How Does Order Quantity Relate to Order Amount?**
+
+![Chart 1](<Screenshot 2026-10-29 132608.png>)
+**Analysis:**
+- The chart compares the quantity ordered with the total order amount.
+  
+**Conclusion:**
+- Understanding order quantity and order value can help businesses study customer purchasing patterns and order sizes.
+
+**Q4. What is the distribution of customer ratings?**
+
+![Chart 1](<Screenshot 2026-10-29 132638.png>)
+
+**Analysis:**
+- Most customer ratings are concentrated around 4 and 5.
+  
+**Conclusion:**
+- Most customers appear satisfied with the food delivery service.
+
+**Q5. What is the correlation among order amount, quantity, discount, and delivery fee?**
+
+![Chart 1](<Screenshot 2026-10-29 132700.png>)
+
+**Analysis:**
+- The heatmap shows the correlation between order amount, quantity, discount percentage, and delivery fee.
+  
+**Conclusion:**
+- Correlation analysis helps identify relationships between order amount, quantity, discounts, and delivery fees.
+
+**Q6. How Does Order Amount Vary Across Different Food Categories?**
+
+![Chart 1](<Screenshot 2026-10-29 132725.png>)
+
+**Analysis:**
+- The boxplot compares the distribution of order amounts across different food categories.
+  
+**Conclusion:**
+- Food categories differ in their order amount distributions.
+
+
+## Final Conclusion
+
+- This project helped me analyze food delivery data using Python libraries.
+- I performed data cleaning and exploratory data analysis (EDA).
+- I created charts to identify patterns and useful insights.
+- This project improved my data analysis and visualization skills.
+
+
+
+
+
 
 
