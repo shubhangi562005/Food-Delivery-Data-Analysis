@@ -1,7 +1,5 @@
 # 🍔 Food Delivery Data Analysis
 
-**End-to-End Data Analytics Project using Python**
-
 # 📌 Project Overview
 
 - This project focuses on analyzing food delivery data to understand customer ordering patterns, food category performance, city-wise order amounts, customer ratings, and delivery performance.
