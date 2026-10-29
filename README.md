@@ -154,4 +154,8 @@
 - The available records are assumed to be suitable for exploratory analysis after preprocessing.
 - The insights describe patterns in this dataset and may not represent every food delivery business.
 
+**Visualization:**
+
+Q1. What Is the Distribution of Order Amounts?
+
 
